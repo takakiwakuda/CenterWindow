@@ -1,0 +1,8 @@
+GetDpiForWindow
+GetMonitorInfo
+GetWindowRect
+GetWindowTextW
+GetWindowTextLengthW
+MonitorFromWindow
+MoveWindow
+SetProcessDpiAwarenessContext
